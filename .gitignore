@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Our rush binary
+rush
+
 # Test binary, build with `go test -c`
 *.test
 
